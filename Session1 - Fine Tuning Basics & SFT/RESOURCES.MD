@@ -174,6 +174,10 @@ Fine-tuning is the process of taking a pre-trained model and adapting it to a sp
 
 ---
 
+## 📝 Session Recording & Transcript
+
+- Drive -> https://drive.google.com/drive/folders/1J9FJltEqLzmWBvOVUigUoy1R0-V302X5
+
 ## 📝 Session Tasks
 
 ### ✅ Preparation Checklist
