@@ -2,7 +2,6 @@
 
 Welcome to **Gemini Study Jams 25** - A comprehensive 3-week program designed to master advanced AI model fine-tuning and deployment techniques using Google's cutting-edge **Gemini** and **Gemma** models.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Google AI](https://img.shields.io/badge/Google-AI-4285F4?logo=google)](https://ai.google.dev/)
 [![Gemini](https://img.shields.io/badge/Gemini-Models-00897B)](https://deepmind.google/technologies/gemini/)
 
@@ -273,7 +272,7 @@ We welcome contributions to improve the learning materials! Here's how you can h
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is open for educational purposes. Please check with the repository maintainer for specific licensing terms.
 
 ---
 
