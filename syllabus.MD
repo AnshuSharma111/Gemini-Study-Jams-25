@@ -13,7 +13,7 @@ Welcome to the Gemini Study Jams! This comprehensive 3-week program will guide y
 - **[Supervised Fine-tuning for Gemini](https://www.cloudskillsboost.google/course_templates/1368?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=52098336)**
   - Master the core concepts of supervised fine-tuning
   - Hands-on practice with Gemini models
-  
+
 - **[Supervised Fine-tuning with Gemini for Image Captioning](https://www.skills.google/focuses/124952?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=58425917)**
   - Specialized application for computer vision tasks
   - Real-world image captioning scenarios
