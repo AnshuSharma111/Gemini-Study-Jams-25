@@ -3,16 +3,6 @@
 Welcome to Session 3! This session takes you beyond the basics into advanced LoRA applications, architectural insights, and cutting-edge parameter-efficient fine-tuning techniques. We'll explore how LoRA interacts with decoder-only transformer architectures and implement sophisticated PEFT strategies.
 
 ---
-
-## 🔍 What You'll Master
-
-- **Advanced LoRA Variants**: AdaLoRA, DoRA, and QLoRA optimizations
-- **Transformer Architecture Deep Dive**: Understanding how LoRA affects different components
-- **Multi-Modal LoRA**: Extending PEFT to vision-language models
-- **Compositional Fine-Tuning**: Combining multiple LoRA adapters
-- **Production Optimization**: Deployment and inference strategies
-- **Memory Efficiency**: Advanced quantization and optimization techniques
-
 ---
 
 ## 📚 Advanced Research Papers
@@ -193,7 +183,7 @@ pip install triton>=2.1.0         # GPU kernel optimizations
 - **[MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)**
   - Neural network optimization and efficient training
   - Parameter-efficient learning techniques
----
+
 ### 📋 Files in This Session
 - **[Decoder-Only Transformers Architecture and how LoRA affects it.pdf](Decoder-Only%20Transformers%20Architecture%20and%20how%20LoRA%20affects%20it.pdf)** - Architectural deep dive and LoRA interaction analysis
 - **[Session 3 - Supervised PEFT Using LoRA Continued.pdf](Session%203%20-%20Supervised%20PEFT%20Using%20LoRA%20Continued.pdf)** - Advanced techniques and implementation strategies
