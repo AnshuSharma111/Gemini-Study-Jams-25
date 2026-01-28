@@ -1,8 +1,7 @@
 # 🚀 Session 3: Advanced LoRA Techniques & Transformer Architecture Deep Dive
 
-Welcome to Session 3! This session takes you beyond the basics into advanced LoRA applications, architectural insights, and cutting-edge parameter-efficient fine-tuning techniques. We'll explore how LoRA interacts with decoder-only transformer architectures and implement sophisticated PEFT strategies.
+Welcome to Session 3! This session takes you beyond the basics into advanced architectural insights and the theory behind LoRA. We'll explore how LoRA interacts with decoder-only transformer architectures and address concerns while Fine Tuning.
 
----
 ---
 
 ## 📚 Advanced Research Papers
@@ -125,7 +124,7 @@ pip install triton>=2.1.0         # GPU kernel optimizations
   - Advanced QLoRA techniques
   - Memory optimization strategies
 ```
----
+
 ```
 ## 🔬 Research Frontiers & Future Directions
 
@@ -204,4 +203,4 @@ Building on [Session 1](../Session%201%20-%20Fine%20Tuning%20Basics%20&%20SFT/RE
 *Ready to push the boundaries of parameter-efficient fine-tuning? Dive into the architectural analysis and start implementing next-generation LoRA techniques! 🚀*
 
 ## 🔗 Quick Navigation
-- [Advanced Papers](#-advanced-research-papers) | [Architecture](#-transformer-architecture--lora-integration) | [Configurations](#-advanced-lora-configurations) | [Evaluation](#-advanced-evaluation--benchmarking) | [Deployment](#-production-deployment-strategies) | [Research](#-research-frontiers--future-directions)
+- [Advanced Papers](#-advanced-research-papers) | [Research](#-research-frontiers--future-directions)
